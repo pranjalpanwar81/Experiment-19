@@ -15,8 +15,8 @@ Visual Studio Code
 ### Code 
 (A) 
 ```
-// NAME - SHLOKA PATEL  
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR 
+// PRN - 23070123164 
 // EXPERIMENT - 19(A) 
 
 // QUEUE 
@@ -83,8 +83,8 @@ int main() {
 
 (B) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR
+// PRN - 23070123164 
 // EXPERIMENT -19(B) 
 
 // QUEUE 
